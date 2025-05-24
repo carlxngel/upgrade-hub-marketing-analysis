@@ -2,6 +2,27 @@
 
 Este proyecto aborda el análisis avanzado de campañas de marketing, desde la limpieza y enriquecimiento de datos hasta la extracción de insights y recomendaciones accionables. Se utilizan técnicas de preprocesamiento, análisis exploratorio y visualización avanzada con Python.
 
+## Dashboard Interactivo
+
+Para una experiencia interactiva y visual del análisis completo, he creado un dashboard utilizando Streamlit que permite:
+
+- Explorar los datos de manera dinámica
+- Visualizar las métricas clave en tiempo real
+- Filtrar los resultados por diferentes variables
+- Generar gráficos personalizados
+- Descargar reportes específicos
+
+👉 **[Accede al dashboard aquí](https://marketingdashboard.streamlit.app/)**
+
+El dashboard incluye:
+- Métricas de ROI y conversión
+- Análisis por canal y tipo de campaña
+- Visualizaciones temporales
+- Predicciones de rendimiento
+- Recomendaciones automatizadas
+
+*Nota: El dashboard se actualiza periódicamente con los últimos datos disponibles.*
+
 ---
 
 ## Estructura del Proyecto
